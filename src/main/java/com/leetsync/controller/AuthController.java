@@ -40,7 +40,7 @@ public class AuthController {
      * This must match the Chrome extension ID.
      */
     private static final String EXTENSION_OAUTH_CALLBACK =
-            "https://bhjiihcbpajmpcnjpkeklnbgbjkebpge.chromiumapp.org/";
+            "https://oamnpedmndgmmamacpofhfpfnfellmpc.chromiumapp.org/";
 
     /**
      * Start GitHub OAuth.
